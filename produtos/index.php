@@ -164,7 +164,7 @@ function e($valor) {
     <div class="mt-3">
         <a href="../index.php" class="btn btn-outline-secondary">
             <i class="bi bi-arrow-left me-1"></i>
-            Voltar ao painel
+            Voltar ao inicio
         </a>
     </div>
 
