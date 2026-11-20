@@ -381,8 +381,8 @@ function classeStatus($status) {
 
                     <div class="col-12 col-md-4">
 
-                        <a href="produtos/cadastrar.php"
-                           class="quick-link">
+                   <a href="produtos/criar.php" 
+                     class="quick-link">
 
                             <i class="bi bi-plus-circle"></i>
 
@@ -397,8 +397,8 @@ function classeStatus($status) {
 
                     <div class="col-12 col-md-4">
 
-                        <a href="transportadores/cadastrar.php"
-                           class="quick-link">
+                        <a href="transportadores/criar.php" 
+                          class="quick-link">
 
                             <i class="bi bi-person-plus"></i>
 
@@ -413,8 +413,8 @@ function classeStatus($status) {
 
                     <div class="col-12 col-md-4">
 
-                        <a href="fretes/cadastrar.php"
-                           class="quick-link">
+                        <a href="fretes/criar.php" 
+                          class="quick-link">
 
                             <i class="bi bi-truck"></i>
 
