@@ -279,3 +279,9 @@ body {
     }
 
 }
+/* Deixa os campos de formulário em letras maiúsculas */
+.form-control,
+.form-select,
+textarea {
+    text-transform: uppercase;
+}
